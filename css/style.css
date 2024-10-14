@@ -1,12 +1,15 @@
+/*tag*/
+body {
+  font-size: 2rem;
+}
+
+/*header*/
+
 header {
   height: 180px;
   background-image: url(../img/pattern.png);
   background-color: #4EA1FE;
   background-repeat: repeat;
-}
-.logo {
-  width: 20rem;
-  margin-bottom: 10px;
 }
 
 h1 {
@@ -15,29 +18,7 @@ h1 {
   margin-bottom: 10px;
 }
 
-.autore {
-  color: #797979;
-  font-weight: bold;
-  font-size: 2rem;
-}
-
-.data {
-  color: #797979;
-  font-weight: bold;
-  margin-bottom: 80px;
-}
-
-div span {
-  color: #539CB6;
-}
-
-.tim-images {
-  background-size: cover;
-}
-
-.text {
-  font-size: 2rem;
-}
+/*/header*/
 
 p span {
   background-color: yellow;
@@ -48,6 +29,34 @@ th{
   background-color: #4EA1FE;
   width: 100;
   min-width: 500px;
+}
+
+div span {
+  color: #539CB6;
+}
+
+/*/tag*/
+
+/*class*/
+.autore {
+  color: #797979;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.logo {
+  width: 20rem;
+  margin-bottom: 10px;
+}
+
+.data {
+  color: #797979;
+  font-weight: bold;
+  margin-bottom: 80px;
+}
+
+.tim-images {
+  background-size: cover;
 }
 
 .dispari {
@@ -75,3 +84,5 @@ th{
   background-size: cover;
   color: white;
 }
+
+/*/class*/
