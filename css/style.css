@@ -33,7 +33,6 @@ div span {
 
 .tim-images {
   background-size: cover;
-  width: 100%;
 }
 
 .text {
@@ -42,4 +41,15 @@ div span {
 
 p span {
   background-color: yellow;
+}
+
+th{
+  color: white;
+  background-color: #4EA1FE;
+  width: 100;
+  min-width: 500px;
+}
+
+.dispari {
+  background-color: #B1E6F2;
 }
