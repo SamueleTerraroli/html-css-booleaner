@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 /*tag*/
 body {
   font-size: 2rem;
@@ -10,6 +15,16 @@ header {
   background-image: url(../img/pattern.png);
   background-color: #4EA1FE;
   background-repeat: repeat;
+  padding-left: 0px;
+}
+
+main{
+  padding-left: 20px;
+  margin-bottom: 50px;
+}
+
+footer {
+  padding-left: 20px;
 }
 
 h1 {
@@ -33,6 +48,21 @@ th{
 
 div span {
   color: #539CB6;
+}
+
+ul {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-left: 20px;
+}
+
+table {
+  margin-bottom: 50px;
+  border-spacing: 0px;
+}
+
+th {
+  text-align: left;
 }
 
 /*/tag*/
@@ -59,7 +89,12 @@ div span {
 }
 
 .tim-images {
-  background-size: cover;
+  margin-bottom: 2px;
+}
+
+.description {
+  font-size: small;
+  margin-bottom: 50px;
 }
 
 .dispari {
