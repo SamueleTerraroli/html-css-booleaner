@@ -6,11 +6,13 @@ header {
 }
 .box-image {
   width: 20rem;
+  margin-bottom: 10px;
 }
 
 h1 {
   font-size: 6rem;
   font-weight: bold;
+  margin-bottom: 10px;
 }
 
 .autore {
@@ -22,8 +24,22 @@ h1 {
 .data {
   color: #797979;
   font-weight: bold;
+  margin-bottom: 80px;
 }
 
 div span {
   color: #539CB6;
+}
+
+.tim-images {
+  background-size: cover;
+  width: 100%;
+}
+
+.text {
+  font-size: 2rem;
+}
+
+p span {
+  background-color: yellow;
 }
