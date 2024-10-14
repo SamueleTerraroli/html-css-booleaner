@@ -1,0 +1,29 @@
+header {
+  height: 180px;
+  background-image: url(../img/pattern.png);
+  background-color: #4EA1FE;
+  background-repeat: repeat;
+}
+.box-image {
+  width: 20rem;
+}
+
+h1 {
+  font-size: 6rem;
+  font-weight: bold;
+}
+
+.autore {
+  color: #797979;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.data {
+  color: #797979;
+  font-weight: bold;
+}
+
+div span {
+  color: #539CB6;
+}
