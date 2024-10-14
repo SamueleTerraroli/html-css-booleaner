@@ -4,7 +4,7 @@ header {
   background-color: #4EA1FE;
   background-repeat: repeat;
 }
-.box-image {
+.logo {
   width: 20rem;
   margin-bottom: 10px;
 }
@@ -52,4 +52,26 @@ th{
 
 .dispari {
   background-color: #B1E6F2;
+}
+
+.box-image1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  height: 300px;
+  width: 400px;
+  background-image: url(../img/monitor.jpg);
+  margin-bottom: 10px;
+  background-size: cover;
+  color: white;
+  margin-top: 30px;
+}
+.box-image2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  height: 300px;
+  width: 400px;
+  background-image: url(../img/graph.jpg);
+  margin-bottom: 10px;
+  background-size: cover;
+  color: white;
 }
