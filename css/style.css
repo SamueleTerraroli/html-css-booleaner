@@ -47,6 +47,9 @@ div span {
 .logo {
   width: 20rem;
   margin-bottom: 10px;
+  min-height: 180px;
+  padding-top: 85px;
+  padding-left: 20px;
 }
 
 .data {
@@ -73,6 +76,8 @@ div span {
   background-size: cover;
   color: white;
   margin-top: 30px;
+  padding-top: 20px;
+  padding-left: 20px;
 }
 .box-image2 {
   font-size: 2.5rem;
@@ -83,6 +88,8 @@ div span {
   margin-bottom: 10px;
   background-size: cover;
   color: white;
+  padding-top: 20px;
+  padding-left: 20px;
 }
 
 /*/class*/
